@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tarun7r-cricket-mcp-server-badge.png)](https://mseep.ai/app/tarun7r-cricket-mcp-server)
+
 # Cricket MCP Server
 
 A Model Context Protocol (MCP) server that provides comprehensive cricket data from Cricbuzz. This server offers real-time cricket statistics, player information, match schedules, and news updates.
